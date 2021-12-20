@@ -1,6 +1,8 @@
 # Part 1: What is the lowest total risk of any path from the top left to the bottom right?
 # https://www.analyticssteps.com/blogs/dijkstras-algorithm-shortest-path-algorithm
 # https://stackabuse.com/dijkstras-algorithm-in-python/
+# Only part one :(
+
 from queue import PriorityQueue
 import sys
 
